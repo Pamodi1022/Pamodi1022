@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pamodi Pansiluni
 - 👀 I’m interested in exploring new technologies
-- 🌱 I’m currently learning React, SQL, C++
+- 🌱 I’m currently learning React.js, SQL, C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at pamodipansiluni1022@gmail.com and www.linkedin.com/in/pamodi-pansiluni
 
