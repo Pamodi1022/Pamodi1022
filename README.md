@@ -1,4 +1,4 @@
-![MasterHead](https://th.bing.com/th/id/R.2298608349bc3ac326202f88fe5f105b?rik=QtDawJc8cLuUzw&pid=ImgRaw&r=0)
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Pamodi Pansiluni</h1>
 <h3 align="center">Computer Science Undergraduate</h3>
 <img align="right" alt="Coding" width="400" src= "https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0*PXf5ge7QCN9Ga_CL.gif">
