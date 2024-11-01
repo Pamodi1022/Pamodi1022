@@ -1,7 +1,7 @@
 ![MasterHead](https://static.vecteezy.com/system/resources/previews/017/383/808/non_2x/coding-system-minimal-infographic-banner-vector.jpg)
 <h1 align="center">Hi 👋, I'm Pamodi Pansiluni</h1>
 <h3 align="center">Computer Science Undergraduate</h3>
-<img align="right" alt="Coding" width="350" src= "https://github.com/user-attachments/assets/b796fd42-8b40-4967-b4d4-b52c5956da1d">
+<img align="right" alt="Coding" width="400" src= "https://github.com/user-attachments/assets/b796fd42-8b40-4967-b4d4-b52c5956da1d">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pamodi1022&label=Profile%20views&color=0e75b6&style=flat" alt="pamodi1022" /> </p>
 
