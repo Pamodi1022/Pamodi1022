@@ -1,7 +1,7 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Pamodi Pansiluni</h1>
 <h3 align="center">Computer Science Undergraduate</h3>
-<img align="right" alt="Coding" width="300" src= "https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0*PXf5ge7QCN9Ga_CL.gif">
+<img align="right" alt="Coding" width="350" src= "https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0*PXf5ge7QCN9Ga_CL.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pamodi1022&label=Profile%20views&color=0e75b6&style=flat" alt="pamodi1022" /> </p>
 
